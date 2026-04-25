@@ -100,6 +100,7 @@ vrrp_instance VI_1 {
     }
 }
 ```
+<img width="1747" height="1215" alt="заданние222 конфиг" src="https://github.com/user-attachments/assets/6c064b66-af26-4e02-a848-aaa989f9e32d" />
 
 ---
 
@@ -135,6 +136,7 @@ vrrp_instance VI_1 {
     }
 }
 ```
+<img width="1902" height="1367" alt="Снимок экрана 2026-04-25 152803" src="https://github.com/user-attachments/assets/6202691c-2ef2-4ecb-a389-5883caf638ae" />
 
 ---
 
@@ -154,6 +156,8 @@ fi
 
 exit 0
 ```
+<img width="2115" height="1290" alt="заданние222 конфиг233" src="https://github.com/user-attachments/assets/13c7d1a3-c33c-4ca8-bd2e-927ac9d84267" />
+
 
 ---
 
@@ -161,7 +165,7 @@ exit 0
 
 ### 1. Нормальное состояние (VIP на Ubuntu1)
 
-<img width="1782" height="192" alt="заданние2" src="https://github.com/user-attachments/assets/2155bd60-d149-4550-9eeb-5f96abdd23fc" />
+<img width="2735" height="660" alt="Снимок экрана 2026-04-25 152007" src="https://github.com/user-attachments/assets/01304d06-db87-4501-a008-6761fad4a58f" />
 
 ---
 
@@ -169,11 +173,14 @@ exit 0
 
 ```bash
 sudo systemctl stop nginx
-```
+
+<img width="2380" height="747" alt="Снимок экрана 2026-04-25 152052" src="https://github.com/user-attachments/assets/c45746cb-2557-4021-bf66-52a67311ba94" />
+
 
 VIP переходит на Ubuntu2:
 
-<img width="1862" height="255" alt="заданние22 уходит" src="https://github.com/user-attachments/assets/707ed3bd-c5a4-4f68-b839-e61757d0e149" />
+<img width="2190" height="945" alt="заданние22 уходит" src="https://github.com/user-attachments/assets/738befd9-6d6f-4d0e-a0d3-e7f4aa9bad68" />
+
 
 
 ---
@@ -185,7 +192,8 @@ sudo systemctl start nginx
 ```
 
 VIP возвращается на Ubuntu1:
-<img width="1782" height="192" alt="заданние2" src="https://github.com/user-attachments/assets/5709b212-f3da-460a-bccf-6eb3b37acdbf" />
+<img width="2210" height="1657" alt="заданние2" src="https://github.com/user-attachments/assets/522980eb-31bb-49d2-bcba-b33154f34abb" />
+
 
 
 ---
