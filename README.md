@@ -174,14 +174,14 @@ exit 0
 ```bash
 sudo systemctl stop nginx
 
-<img width="2380" height="747" alt="4" src="https://github.com/user-attachments/assets/3f51a6ee-f524-420e-bfcf-2c06567a9132" />
+(https://github.com/vasya12345654321/sys-pattern-homework/blob/main/img/4.png)
 
 
 
 VIP переходит на Ubuntu2:
 
 
-<img width="2190" height="945" alt="5" src="https://github.com/user-attachments/assets/a74f91ae-d7ff-49e8-b8a2-ad1a67846308" />
+https://github.com/vasya12345654321/sys-pattern-homework/blob/main/img/5.png
 
 
 
