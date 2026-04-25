@@ -171,7 +171,7 @@ exit 0
 
 ### 2. Отказ сервиса (nginx остановлен)
 
-```bash
+
 sudo systemctl stop nginx
 
 ![fail](img/4.png)
